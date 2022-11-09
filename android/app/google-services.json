@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845555372532",
+    "project_id": "visums-64f91",
+    "storage_bucket": "visums-64f91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845555372532:android:1975359cd0e8c865c869a1",
+        "android_client_info": {
+          "package_name": "com.visums"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845555372532-rngij1es5j3prsg9rj9jhbdd14o6gjf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visums",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "845555372532-bhbv9sm8m9ob0st08u35an5il1nu4rfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCat_0oloutuJ13T23s4NdP-NIQV3ZieJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845555372532-bhbv9sm8m9ob0st08u35an5il1nu4rfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
